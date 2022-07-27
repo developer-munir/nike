@@ -1,3 +1,5 @@
+*{
+    overflow-x: hidden;
 }
 .my-website-primary-bg{
     background-color: #E5E5E5;
