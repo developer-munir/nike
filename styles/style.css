@@ -1,0 +1,17 @@
+.my-website-primary-bg{
+    background-color: #E5E5E5;
+}
+.my-header-bg{
+    background-color: #FFF9F4;
+}
+.my-primary-text{
+    color: #363958;
+    font-weight: 700;
+}
+.my-primary-text-sepecial{
+    color: #FA804C;
+    font-weight: 700;  
+}
+.my-items-bg{
+    background-color: rgba(0, 0, 0, 0.15);
+}
