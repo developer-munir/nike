@@ -8,10 +8,14 @@
     color: #363958;
     font-weight: 700;
 }
-.my-primary-text-sepecial{
+.my-primary-text-special{
     color: #FA804C;
     font-weight: 700;  
 }
 .my-items-bg{
     background-color: rgba(0, 0, 0, 0.15);
+}
+.normal-texts-color{
+    color: #3E3E3E;
+    font-weight: 400;
 }
